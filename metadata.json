@@ -1,0 +1,6 @@
+{
+  "name": "Термометрия",
+  "description": "Инженерный монитор температуры ЦП, горячей точки (CPU Hotspot) и батареи в реальном времени.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
